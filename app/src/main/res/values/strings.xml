@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo Notification Timer</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_adding_dialog">AddingDialogActivity</string>
+</resources>
